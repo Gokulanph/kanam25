@@ -1,0 +1,13 @@
+pip
+langchain
+langchain-openai
+langchain-community
+openai
+python-dotenv
+streamlit
+numpy
+langchain-chroma
+faiss-cpu
+pyPDF
+wikipedia
+duckduckgo-search
